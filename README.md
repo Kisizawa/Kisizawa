@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Kisizawa
-- 👀 興味がある...Python
-- 🌱 私は現在勉強でいます ...Java
+- 👋 Hi, I’m jojo
+- 👀 興味がある...Python,Ruby
+- 🌱 私は現在勉強でいます ...Java,javascript
 - 💞️コラボしようと思って...
-- 📫 連絡方法 ...
+- 📫 連絡方法 ...ssk.kisizwa@gmail.com
 - 
 
-<!---
-Kisizawa/Kisizawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
